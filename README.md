@@ -1,1 +1,2 @@
-# loan-status
+#SCORE
+Accuracy is :  0.8653846153846154
